@@ -1,4 +1,4 @@
-# create youtube download with pafy not pytube
+# create youtube download with library pafy
 from tkinter import *
 from tkinter import ttk
 from tkinter import filedialog
