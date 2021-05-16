@@ -1,7 +1,6 @@
 # python-youtube-download-gui
-# IMPORTANT, READ ME
 
-IMPORTANT !!
+IMPORTANT, READ ME!!
 Please install library python :
 1. tkinter
 2. youtube-dl
